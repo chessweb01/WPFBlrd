@@ -1,0 +1,1 @@
+This is a 2D simulation of Billiard using Microsoft WPF. Interesting are the coordinate transformations used to calculate the impulse transfer from ball to ball.
